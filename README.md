@@ -4,8 +4,8 @@
 
 - HTML
 - CSS
-- Javascript
 - PHP
+- JavaScript
 - MySQL
 
 ## Licença
