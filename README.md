@@ -1,15 +1,20 @@
 <h1 align="center">🏫🎒 Sistema de Cadastro Escolar</h1>
 
-## Tecnologias Usadas
+<br>
 
-- HTML
-- CSS
-- PHP
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
 - JavaScript
+- PHP
 - MySQL
 
-## Licença
+Licença
 
-Este projeto está sob [MIT](./LICENSE).
+Esse projeto está sob a licença MIT.
+
+Projeto desenvolvido por André Higino Carioca 🧑‍💻 💚
 
 
